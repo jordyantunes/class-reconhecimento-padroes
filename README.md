@@ -1,0 +1,1 @@
+# class-reconhecimento-padroes
