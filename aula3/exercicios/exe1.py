@@ -61,6 +61,8 @@ for ini in valores_iniciais:
 
 """
 ----------------------------------------
-
+Dependendo do ponto inicial, a descida de gradiente leva o algoritmo de otimização
+a pontos de mínimos locais diferentes. Isso pode ser contornado mexendo no peso de cada
+"passo" do algoritmo ou testando vários pontos iniciais diferentes
 ----------------------------------------
 """
